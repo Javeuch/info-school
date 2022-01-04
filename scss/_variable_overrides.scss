@@ -1,0 +1,18 @@
+
+// Vos titres s'affichent à présent dans la police Times/Times New Roman serif standard
+$headings-font-family: 'Times New Roman', Times, serif;
+
+// la couleur primaire du thème doit utiliser la valeur hexadécimale #22A1ED ;
+$body-color: #22a1ed;
+
+// la couleur foncée du thème doit utiliser la valeur hexadécimale #04040C ;
+$dark: #04040c;
+
+// la couleur des titres doit utiliser la valeur hexadécimale #284876 ;
+$headings-color: #284876;
+
+// la couleur d'arrière-plan des cartes doit utiliser la valeur hexadécimale #FCFCFC
+$card-bg: #FCFCFC;
+
+// Les arrondids sont supprimés (ex:les boutons)
+/* $enable-rounded:false; */
